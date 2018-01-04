@@ -1,0 +1,6 @@
+26/04/2016 18:54:15 | error-sendForward|   at System.Net.HttpWebRequest.GetResponse()
+   at bot.Pesan.ForWardMessage(String message) | The remote server returned an error: (400) Bad Request.
+26/04/2016 19:29:24 | error-sendForward|   at System.Net.HttpWebRequest.GetResponse()
+   at bot.Pesan.ForWardMessage(String message) in d:\Kantor\c#\BotTelegram\bot\bot\bot\Pesan.cs:line 351 | The remote server returned an error: (400) Bad Request.
+26/04/2016 20:11:28 | error-sendForward|   at System.Net.HttpWebRequest.GetResponse()
+   at bot.Pesan.ForWardMessage(String message) in d:\Kantor\c#\BotTelegram\bot\bot\bot\Pesan.cs:line 351 | The remote server returned an error: (400) Bad Request.

@@ -1,0 +1,1 @@
+27/04/2016 17:31:06 | alert|136331911 | Ajie|  SELECT id,first_name FROM user WHERE id NOT IN (    SELECT userid FROM laporan    WHERE DATE_FORMAT(created_at,'%d/%m/%Y')='27/04/2016' ) and  id!='206390585' ORDER BY first_name ASC

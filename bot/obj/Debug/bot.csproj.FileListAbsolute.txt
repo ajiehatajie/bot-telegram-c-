@@ -1,0 +1,12 @@
+D:\Kantor\c#\BotTelegram\bot\bot\bot\bin\Debug\bot.exe.config
+D:\Kantor\c#\BotTelegram\bot\bot\bot\bin\Debug\bot.exe
+D:\Kantor\c#\BotTelegram\bot\bot\bot\bin\Debug\bot.pdb
+D:\Kantor\c#\BotTelegram\bot\bot\bot\bin\Debug\MySql.Data.dll
+D:\Kantor\c#\BotTelegram\bot\bot\bot\bin\Debug\RestSharp.dll
+D:\Kantor\c#\BotTelegram\bot\bot\bot\bin\Debug\TelegramBotSharp.dll
+D:\Kantor\c#\BotTelegram\bot\bot\bot\bin\Debug\RestSharp.xml
+D:\Kantor\c#\BotTelegram\bot\bot\bot\obj\Debug\bot.exe
+D:\Kantor\c#\BotTelegram\bot\bot\bot\obj\Debug\bot.pdb
+K:\Kantor\c#\BotTelegram\bot\bot\bot\bin\Debug\bot.exe.config
+K:\Kantor\c#\BotTelegram\bot\bot\bot\obj\Debug\bot.exe
+K:\Kantor\c#\BotTelegram\bot\bot\bot\obj\Debug\bot.pdb
